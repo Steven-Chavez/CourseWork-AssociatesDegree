@@ -1,4 +1,5 @@
 //Steven Chavez
+//schavez256@Yahoo.com
 //File: AlarmClock.java
 //Program 1 The Alarm Clock - Time to Sound an Alarm
 //CIS2235
