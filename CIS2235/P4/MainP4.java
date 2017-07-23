@@ -3,6 +3,7 @@ import javax.swing.JFrame;
 /**
  * Entry point for ChavezP4 program 
  *
+ * @author Steven Chavez <schavez256@yahoo.com>
  * File: MainP4.java
  * Program 4: Color Builder Frame
  * CIS2235
