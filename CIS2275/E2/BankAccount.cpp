@@ -1,5 +1,5 @@
 //Steven Chavez
-//schavez256@yahoo.cnm.edu
+//schavez256@yahoo.com
 //BankAccount.cpp
 
 #include "BankAccount.h"
