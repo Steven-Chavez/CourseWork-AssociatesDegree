@@ -44,7 +44,7 @@ void ListMgr::push_front(Person * p)
 
 
 /**
- * Takes person as a perameter and adds that person
+ * Takes person as a peramater and adds that person
  * to the back of the list
  **/
 void ListMgr::push_back(Person * p)
@@ -91,7 +91,6 @@ void ListMgr::pop_front()
 	{
 		cout << "\n\nNothing Remove: File is Empty!\n\n";
 	}
-	
 }
 
 
