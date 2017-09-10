@@ -9,7 +9,7 @@ import javax.swing.event.ChangeListener;
  * GUI for entering tip information and displaying calculated results to the 
  * user.
  * 
- * @author Steven Chavez <schavez256@yahoo.com>
+ * @author Steven Chavez <steven@stevenscode.com>
  * File: TipsterFrame.java
  * Program 1: Java Review
  */
